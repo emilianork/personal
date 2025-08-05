@@ -1,0 +1,12 @@
+* Personal Info
+#+BEGIN_HTML
+<a href="https://github.com/emilianork/personal">
+<img src="avatar.jpg" />
+</a>
+#+END_HTML
+
+*Position*: Infrastructure Engineering Manager
+
+*Company*: Yoink LLC
+
+[[resume.pdf][Resume (last update August 2025)]]
